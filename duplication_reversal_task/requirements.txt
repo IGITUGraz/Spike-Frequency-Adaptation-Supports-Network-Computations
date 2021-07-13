@@ -1,0 +1,10 @@
+ipdb
+https://github.com/IGITUGraz/sdict/archive/master.zip
+https://github.com/IGITUGraz/SimRecorder/archive/master.zip
+https://github.com/IGITUGraz/SimManager/archive/v0.5.1.zip
+randomgen
+tensorflow==1.10
+numpy
+scipy
+matplotlib
+pyyaml
