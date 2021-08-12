@@ -6,4 +6,4 @@ The adaptation is implemented as adaptive threshold.
 The scripts contained reproduce many results from the paper [1].
 
 [1] [Spike frequency adaptation supports network computations on temporally dispersed information  
-Darjan Salaj, Anand Subramoney, Ceca Kraišniković, Guillaume Bellec, Robert Legenstein, Wolfgang Maass](https://www.biorxiv.org/content/10.1101/2020.05.11.081513v1.abstract)
+Darjan Salaj, Anand Subramoney, Ceca Kraišniković, Guillaume Bellec, Robert Legenstein, Wolfgang Maass](https://elifesciences.org/articles/65459)
